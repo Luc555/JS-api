@@ -1,0 +1,14 @@
+{
+  "name": "testando-api",
+  "version": "1.0.0",
+  "description": "Um teste de funcionamento de API meteorologica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Martins",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
