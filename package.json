@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luc555/JS-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Luc555/JS-api/issues"
+  },
+  "homepage": "https://github.com/Luc555/JS-api#readme",
+  "devDependencies": {}
 }
